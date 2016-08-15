@@ -1,0 +1,128 @@
+Part B, Processes: 2
+Timing_1.txt: 0.0176222 seconds
+Result: 88005 0 12
+
+Part B, Processes: 4
+Timing_1.txt: 0.0139699 seconds
+Result: 88005 0 12
+
+Part B, Processes: 8
+Timing_1.txt: 0.0113624 seconds
+Result: 88005 0 12
+
+Part B, Processes: 16
+Timing_1.txt: 0.00886084 seconds
+Result: 88005 0 12
+
+Part B, Processes: 2
+Timing_2.txt: 0.0184149 seconds
+Result: 967 0 13
+
+Part B, Processes: 4
+Timing_2.txt: 0.013646 seconds
+Result: 967 0 13
+
+Part B, Processes: 8
+Timing_2.txt: 0.0104377 seconds
+Result: 967 0 13
+
+Part B, Processes: 16
+Timing_2.txt: 0.00695803 seconds
+Result: 967 0 13
+
+Part B, Processes: 2
+Timing_3.txt: 0.0631104 seconds
+Result: 271 0 13
+
+Part B, Processes: 4
+Timing_3.txt: 0.0375759 seconds
+Result: 271 0 13
+
+Part B, Processes: 8
+Timing_3.txt: 0.0225253 seconds
+Result: 271 0 13
+
+Part B, Processes: 16
+Timing_3.txt: 0.0244216 seconds
+Result: 271 0 13
+
+Part B, Processes: 2
+Timing_4.txt: 0.0103187 seconds
+Result: 14340 0 13
+
+Part B, Processes: 4
+Timing_4.txt: 0.0137627 seconds
+Result: 14340 0 13
+
+Part B, Processes: 8
+Timing_4.txt: 0.00729755 seconds
+Result: 14340 0 13
+
+Part B, Processes: 16
+Timing_4.txt: 0.0119767 seconds
+Result: 14340 0 13
+
+Part C, Processes: 2
+Timing_1.txt: 0.0189669 seconds
+Result: 88005 0 12
+
+Part C, Processes: 4
+Timing_1.txt: 0.0145486 seconds
+Result: 88005 0 12
+
+Part C, Processes: 8
+Timing_1.txt: 0.0125003 seconds
+Result: 88005 0 12
+
+Part C, Processes: 16
+Timing_1.txt: 0.0197245 seconds
+Result: 88005 0 12
+
+Part C, Processes: 2
+Timing_2.txt: 0.0173723 seconds
+Result: 967 0 13
+
+Part C, Processes: 4
+Timing_2.txt: 0.0130229 seconds
+Result: 967 0 13
+
+Part C, Processes: 8
+Timing_2.txt: 0.00840096 seconds
+Result: 967 0 13
+
+Part C, Processes: 16
+Timing_2.txt: 0.00734309 seconds
+Result: 967 0 13
+
+Part C, Processes: 2
+Timing_3.txt: 0.0601931 seconds
+Result: 271 0 13
+
+Part C, Processes: 4
+Timing_3.txt: 0.0365752 seconds
+Result: 271 0 13
+
+Part C, Processes: 8
+Timing_3.txt: 0.0235827 seconds
+Result: 271 0 13
+
+Part C, Processes: 16
+Timing_3.txt: 0.0156815 seconds
+Result: 271 0 13
+
+Part C, Processes: 2
+Timing_4.txt: 0.0116031 seconds
+Result: 14340 0 13
+
+Part C, Processes: 4
+Timing_4.txt: 0.00837687 seconds
+Result: 14340 0 13
+
+Part C, Processes: 8
+Timing_4.txt: 0.00740831 seconds
+Result: 14340 0 13
+
+Part C, Processes: 16
+Timing_4.txt: 0.0160293 seconds
+Result: 14340 0 13
+
